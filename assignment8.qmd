@@ -1,0 +1,10 @@
+---
+title: "assignment8"
+format: html
+editor: visual
+---
+
+
+Task1: what was the last movie you watched in a theater?
+Animal
+
